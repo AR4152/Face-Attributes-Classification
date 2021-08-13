@@ -9,7 +9,7 @@ b) Has Thick Nose or Lips
 ## Files
 There are 2 data files and 1 folder provided:
 
-face_attribute_train.csv - Ids of training Images + Labels (Wearing_Accessories + Thick_Lips_Nose)
+face_attribute_train.csv - Ids of training Images + Labels (Wearing_Accessories + Thick_Lips_Nose).
 face_images/face_images - Folder containing all of the .jpg images. Filename of the image is the same as "image_id" (see below).
 
 ## Column Description
