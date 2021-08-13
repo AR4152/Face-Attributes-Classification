@@ -1,8 +1,8 @@
 # Face-Attributes-Classification
 
-Celebrities often define fashion trends and standards by the styles they choose. To address a rapidly changing demand, designers need to be able to automatically identify trends. The solution uses a large database of celebrity images to find trends and facial attributes among such images.
+Celebrities often define fashion trends and standards by the styles they choose. To address a rapidly changing demand, designers need to be able to automatically identify trends. The model uses a large database of celebrity images to find trends and facial attributes among such images.
 
-In this case, the solution predicts if a celebrity is:
+In this case, the model predicts if a celebrity is:
 a) Wearing Accessories
 b) Has Thick Nose or Lips
 
